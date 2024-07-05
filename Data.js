@@ -36,7 +36,7 @@ export default function Data() {
             source_code: "https://github.com/chaitanmeshram/Optical-Sensor-For-Strain-Measurement-"
         },
         {
-            img_url: "https://raw.githubusercontent.com/chaitanmeshram/Portfolio-Page-using-React/main/WhatsApp%20Image%202024-07-04%20at%2015.32.32_c77cba9d.jpg",
+            img_url: "https://raw.githubusercontent.com/chaitanmeshram/Portfolio-Page-using-React/main/WebD/WhatsApp%20Image%202024-07-04%20at%2015.32.32_c77cba9d.jpg",
             discription: "Keeps track for Income, Expenditure and Available Amount within local storage",
             title: "Expenses Calculator",
             source_code: "https://github.com/chaitanmeshram/Finance-Tracker"
